@@ -1,84 +1,67 @@
-Hi there, I'm Anurag 👋
-Full Stack Developer | Software Engineering Graduate | Tech Enthusiast
+# < Hey, I'm Anurag 👨‍💻 />
 
-I’m a passionate developer focused on building scalable web applications, solving real-world problems, and continuously learning modern technologies.
-Currently working on projects related to education platforms, community systems, and smart automation solutions.
+### Full Stack Developer • Cloud Learner • Problem Solver
 
-🚀 About Me
-🎓 Software Engineering Graduate
-💻 Interested in Full Stack Development & Cloud Technologies
-🌱 Currently learning advanced backend development & AWS
-🔥 Building impactful projects with modern tech stacks
-🎯 Goal: Become a skilled Software Engineer & contribute to innovative products
-🛠️ Tech Stack
-Frontend
-HTML5
-CSS3
-JavaScript
-React.js
-Tailwind CSS
-Backend
-Node.js
-Express.js
-Python
-Database
-MongoDB
-MySQL
-Tools & Platforms
-Git & GitHub
-VS Code
-Postman
-AWS (Learning)
-Firebase
-📌 Featured Projects
-📚 EduArchive
+Building scalable web applications and transforming ideas into real-world digital products.
 
-Central Repository Website for Previous Year Examination Papers
+---
 
-Features:
+## 🚀 Currently Working On
 
-User/Admin Authentication
-Search & Filter System
-File Upload & Download
-Payment Integration
-Department-wise Organization
+- 📚 EduArchive — Central Repository for Previous Year Papers
+- 🎓 Alumni Connect — Student & Alumni Community Platform
+- ☁️ Exploring AWS & Cloud Technologies
+- ⚡ Improving Backend & System Design Skills
 
-Tech Used:
-React.js • Tailwind CSS • Node.js • Express.js • MongoDB
+---
 
-🎓 Alumni Connect
+## 💻 Tech Stack
 
-College-based Community Platform connecting Students & Alumni
+<div align="center">
 
-Features:
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,mongodb,mysql,git,github,vscode,aws,firebase" />
 
-Community Wall
-Role-based Profiles
-Student-Alumni Interaction
-Job & Opportunity Sharing
+</div>
 
-Tech Used:
-React.js • Node.js • MongoDB
+---
 
-🧠 Smart Attendance System
+## 📌 Featured Projects
 
-Automated Attendance Management Solution
+### 📚 EduArchive
+A centralized platform for accessing previous year examination papers with authentication, search, downloads, and payment integration.
 
-Features:
+### 🎓 Alumni Connect
+A college community platform connecting students and alumni through posts, opportunities, and networking.
 
-Attendance Tracking
-Record Management
-User-friendly Dashboard
-📊 GitHub Stats
+### 🧠 Smart Attendance System
+An automated attendance management solution focused on efficiency and accuracy.
 
-🏆 Achievements
-AWS Emerging Talent Community Member
-Active Learner in Cloud & AI Technologies
-Built Multiple Full Stack Academic Projects
-📫 Connect With Me
-GitHub: https://github.com/AnuragKannojiya
-LinkedIn: https://www.linkedin.com/in/anurag4978/
-Email: anuragkannaujiyak@gmail.com
-⚡ Fun Fact
+---
 
-I enjoy transforming ideas into real-world applications and exploring new technologies every day.
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=AnuragKannojiya&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragKannojiya&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/AnuragKannojiya">GitHub</a> •
+<a href="https://www.linkedin.com/in/anurag4978/">LinkedIn</a> •
+<a href="mailto:anuragkannaujiyak@gmail.com">Email</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ "Code • Build • Learn • Repeat"
+
+</div>
