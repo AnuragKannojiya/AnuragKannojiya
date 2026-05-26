@@ -1,6 +1,6 @@
 # < Hey, I'm Anurag 👨‍💻 />
 
-### Full Stack Developer • Cloud Learner • Problem Solver
+### Full Stack Developer • Cloud Learner • Problem Solver • Cyber Security
 
 Building scalable web applications and transforming ideas into real-world digital products.
 
